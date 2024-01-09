@@ -1,0 +1,20 @@
+Instruction on How to Make Portfolio in Github
+
+1. Sign-up for an account in Github.com and log-in.
+2. On the top right corner of your dashboard click the button icon "New" to create a new repository.
+3. Under repository name fill in the same name as your github username. eg "USERRNAME.github.io".
+4. Click the button icon "Create Repository".
+5. Download visual studio code to write and save your html code.
+6. Write the code below and save filename as "Index".
+
+	<html>
+        	<h1>USERNAME Portfolio</h1>
+                <img src="./PICNAME1.jpeg" />
+      	</html>
+
+7. Make sure you change USERNAME as your Portfolio name and PICNAME1 is your picture's filename.
+8. It will be easier if both your file and picture are in the same file folder.
+9. At github, click the plus button icon then click "Upload files".
+10. Drag and drop the files you created, Index.html and your picture in the github.
+11. Click the button icon "Commit Changes".
+12. Test your code. Open your web browser and type in your repository name, eg. "USERNAME.github.io".
