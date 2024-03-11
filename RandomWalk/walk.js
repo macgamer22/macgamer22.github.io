@@ -1,5 +1,3 @@
-
-
 // No need to change the following code
 // The area object defines the div in which the balls will be created
 const area = {
