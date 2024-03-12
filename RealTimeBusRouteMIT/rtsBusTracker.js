@@ -59,9 +59,9 @@ function addMarker(bus){
 function getIcon(bus){
 	// select icon based on bus direction
 	if (bus.attributes.direction_id === 0) {
-		return 'pink.png';
+		return './pink.png';
 	}
-	return 'skyblue.png';	
+	return './skyblue.png';	
 }
 
 function moveMarker(marker, bus){
