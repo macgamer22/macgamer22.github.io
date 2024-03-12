@@ -84,4 +84,3 @@ function getMarker(id){
 }
 
 window.onload = init;
-run();
