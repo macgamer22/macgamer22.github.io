@@ -9,7 +9,7 @@ Using the google map and a registered API key, we are able to track the bus and 
 How to RUN Instruction: 
 1. Signup for an account in Google cloud project.
 2. Create an API key.
-3. Once key is created insert it at line 10 of index.html file. (eg. <script src="http://maps.google.com/maps/api/js?key=insertAPIkeyhere>)
+3. Once key is created insert it at line 10 of index.html file.
 4. Run index.html, preferrably chrome broswer.
 
 
