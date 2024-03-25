@@ -129,6 +129,7 @@ header .logo a {
 
 .biovideo figure iframe {
     display: flex;
+    margin-right: 100px;
     justify-content: right;
 }
 
