@@ -8,4 +8,4 @@
 ## My Webpage
 <a href="http://macgamer22.github.io/myWebPage"> Jule's Webpage </a>
 ## How to create porfolio
-<a href="http://macgamer22/How To Create Portfolio"> Instruction </a>
+<a href="http://macgamer22/How-To-Create-Portfolio"> Instruction </a>
