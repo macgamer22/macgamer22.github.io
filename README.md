@@ -15,3 +15,5 @@
 <a href="http://macgamer22.github.io/todo-list"> Todo List </a>
 ## ATM Improvement
 <a href="http://macgamer22.github.io/atmimprove"> ATM Exercise </a>
+## Tictactoe
+<a href="http://macgamer22.github.io/tictactoe"> Tictactoe Exercise </a>
